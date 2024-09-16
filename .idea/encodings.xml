@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/session-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/session-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/session-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/session-mongodb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/session-postgres/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/session-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
